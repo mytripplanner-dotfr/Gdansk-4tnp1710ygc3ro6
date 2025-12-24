@@ -1,0 +1,151 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "⚓",
+  "titre": "Escapade relaxante à Gdansk, la perle de la Baltique",
+  "budget_total": "537 €",
+  "duree": "2 jours",
+  "temps_vol": "2h15 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la vieille ville",
+      "legende": "Après un vol matinal depuis Paris, installez-vous confortablement et laissez-vous charmer par l'atmosphère historique de la vieille ville de Gdansk. Flânez le long de la Motlawa, admirez l'architecture hanséatique et savourez un premier repas typique. Une journée douce pour s'acclimater à cette charmante cité portuaire.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Gdansk (GDN) et transfert vers le centre-ville. Profitez du trajet pour apercevoir les premiers paysages polonais.",
+        "<strong>🛏️</strong>: Installation à votre hôtel et rafraîchissement. Prenez le temps de vous détendre avant de partir à la découverte de la ville.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante le long de la Longue Rue (Długa) et de la Longue Place (Długi Targ). Admirez les façades colorées et l'architecture emblématique de la ville, comme la Fontaine de Neptune.",
+        "<strong>⚓</strong>: Promenade le long de la rivière Motlawa et découverte de la Grue Médiévale (Żuraw). Imprégnez-vous de l'ambiance portuaire historique et des vues pittoresques."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La vieille ville de Gdansk est très compacte et se visite facilement à pied, idéale pour une première journée relaxante sans stress."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "💎",
+      "titre": "Culture, ambre et détente au bord de l'eau",
+      "legende": "Plongez dans l'histoire de Gdansk avec une visite culturelle emblématique, puis laissez-vous tenter par le charme de l'ambre, l'or de la Baltique. Terminez la journée par un moment de quiétude dans un cadre verdoyant, loin de l'agitation urbaine, pour une expérience pleinement relaxante.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>⛪</strong>: Visite de la Basilique Sainte-Marie (Bazylika Mariacka). Admirez l'intérieur majestueux de la plus grande église en brique du monde et, si l'envie vous prend, montez à la tour pour une vue panoramique.",
+        "<strong>💎</strong>: Exploration de la Rue Mariacka, célèbre pour ses boutiques d'ambre. Flânez et découvrez les trésors de la Baltique dans une ambiance unique et charmante.",
+        "<strong>🌳</strong>: Détente au Parc Oliwski et visite de la Cathédrale d'Oliwa. Profitez de la sérénité des jardins paysagers et de la beauté de l'architecture de la cathédrale, connue pour ses orgues.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant local pour savourer la cuisine polonaise. Terminez la journée en douceur avec des saveurs authentiques et une ambiance chaleureuse."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Pour le Parc Oliwski, un court trajet en tram ou en bus est nécessaire depuis le centre-ville, mais le cadre verdoyant et la cathédrale en valent la peine pour une activité relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez d'un dernier petit-déjeuner polonais et d'une ultime balade pour quelques souvenirs. Le temps de dire au revoir à cette charmante ville avant de prendre le chemin de l'aéroport. Une fin de voyage en douceur, remplie de bons souvenirs.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🥐</strong>: Petit-déjeuner typique dans un café local. Savourez les dernières douceurs polonaises avant de quitter la ville.",
+        "<strong>🛍️</strong>: Achats de souvenirs de dernière minute ou re-visite d'un lieu coup de cœur. Emportez un peu de Gdansk avec vous.",
+        "<strong>🛫</strong>: Transfert vers l'aéroport de Gdansk (GDN) et vol retour vers Paris. Fin de cette escapade relaxante et culturelle."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Rappel",
+          "texte": "Vérifiez les horaires de votre vol et prévoyez suffisamment de temps pour le transfert et les formalités à l'aéroport afin d'éviter tout stress."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 257 €/pers (A/R Paris-Gdansk)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 20 €/pers (transferts aéroport et transports locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 100 €/pers (2 petits déj, 2 déj, 2 dîners en budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 140 €/pers (2 nuits en hôtel 3* sur base de chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 20 €/pers (entrées Basilique Sainte-Marie, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre (temps doux et ensoleillé, idéal pour les balades)",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie locale est le Złoty polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le polonais est la langue officielle. L'anglais est parlé dans les zones touristiques et par la jeune génération. Apprendre quelques mots de base est toujours apprécié.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Les transports en commun (trams, bus) sont efficaces et économiques pour se déplacer dans Gdansk et ses environs. Les tickets peuvent être achetés aux distributeurs ou dans les kiosques.",
+      "symbole": "🚌"
+    },
+    {
+      "titre": "En mai, les températures sont douces (généralement entre 10 et 18°C). Prévoyez des couches de vêtements et un imperméable léger en cas de pluie.",
+      "symbole": "🌦️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-GDN/2026-05-13/2026-05-15",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Gdansk",
+      "url": "https://www.gdansk.pl/en/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports en commun",
+      "titre": "ZTM Gdansk",
+      "url": "https://ztm.gda.pl/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Gdansk",
+      "url": "https://www.accuweather.com/fr/pl/gdansk/273030/weather-forecast/273030",
+      "symbole": "🌤️"
+    }
+  ]
+}
